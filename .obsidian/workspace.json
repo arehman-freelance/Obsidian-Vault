@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "73d225291ddc245d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af3a85b690d97fd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44a8d35836f592d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b69d1de4a9d07cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "azm/Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b3e941f8b136300",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b59034c58579d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5687bfcbc7c077d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e165fae82cf18c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d43cb56c4018c7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "781231084d582fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1daba2b0cc1f5d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10b4e701e6033e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-09-13.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87bdb2ba8ea7289c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-09-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d848bc83f19e38e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8981744f3056a4c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-09-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d44a8d35836f592d",
+  "lastOpenFiles": [
+    "support/Container DB.md",
+    "maxapex/Scratch Pad.md",
+    "maxapex/Course.md",
+    "maxapex/AnyQuiz.md",
+    "2024-09-13.md",
+    "2024-09-12.md",
+    "azm/Interview Questions.md",
+    "Obsidian Quick Shortcuts.md",
+    "maxapex/Todos.md",
+    "maxapex/Ticket AI.md",
+    "images/Pasted image 20240912131313.png",
+    "images",
+    "teacher salary.md",
+    "Untitled.canvas",
+    "azm/Overview.md",
+    "azm/Shefa.md",
+    "azm/Saso.md",
+    "maxapex/Container DB.md",
+    "azm/QA.md",
+    "azm/Nasir Bhai.md",
+    "azm",
+    "maxapex",
+    "Interview.md",
+    "2024-09-11.md",
+    "support"
+  ]
+}

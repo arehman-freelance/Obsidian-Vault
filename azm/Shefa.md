@@ -1,0 +1,11 @@
+# Important Tasks
+- check sheffa confluence documentation
+- **apple pay enitity id**
+- Saudi Arab **->** free number
+- **clear raodmap point 13 on shifa transition**
+- **webhook issue on staging hyperpay**
+- **pg bouncer**
+- **update sms template (multiline)**
+- discuss recurring issues on sentry logs
+- sadaat integration
+- kanban
