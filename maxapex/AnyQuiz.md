@@ -1,4 +1,9 @@
-
+## general
+- what if chatgpt API key expired we should have second solution for checking like gemini
+- we should us openai instead of gemini for all question types because of pricing.
+- use ==gama== model for mobile AI
+- use tag/rac for ==NLP based sql query== and result app
+- 
 ## maths prompts
 - Develop an AI-powered system in Python that takes a PDF of a math book, scans specific pages, and intelligently extracts text, images, tables, and questions. The system should understand and solve the extracted questions, generate five similar questions, and return the topic, question, and answers in a multiple-choice format. You can use LangChain, OpenAI, or any relevant models and libraries. Provide a step-by-step explanation with examples.
 

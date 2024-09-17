@@ -10,6 +10,8 @@
 
 ## [[Saso]]
 
+## [[Crowd Funding]]
+
 # QA
 - playright **->** automation suit
 - need access on shefa**-**qa**-**automation (https:**//**github._com_**/**AzmDevelopment**/**Shefa**-**QA**-**automation)

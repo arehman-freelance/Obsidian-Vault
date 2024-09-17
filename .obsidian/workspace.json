@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af3a85b690d97fd9",
+        "id": "4e318c20551d7b90",
         "type": "tabs",
         "children": [
           {
-            "id": "d44a8d35836f592d",
+            "id": "537fb98e99f4bb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b69d1de4a9d07cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "azm/Interview Questions.md",
+                "file": "2024-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ticket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "781231084d582fae",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-13.md",
+                "file": "2024-09-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-13.md",
+                "file": "2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-13.md"
+                "file": "2024-09-17.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,23 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d44a8d35836f592d",
+  "active": "537fb98e99f4bb85",
   "lastOpenFiles": [
-    "support/Container DB.md",
+    "2024-09-16.md",
+    "2024-09-17.md",
+    "mobile/Mobile Vault.md",
+    "mobile",
     "maxapex/Scratch Pad.md",
-    "maxapex/Course.md",
+    "attachments/jmeter testing .pdf",
+    "azm/Scratch Pad.md",
+    "maxapex/Ticket AI.md",
     "maxapex/AnyQuiz.md",
+    "azm/Crowd Funding.md",
+    "2024-09-15.md",
+    "azm/Overview.md",
+    "azm/Interview Questions.md",
     "2024-09-13.md",
     "2024-09-12.md",
-    "azm/Interview Questions.md",
+    "support/Container DB.md",
+    "maxapex/Course.md",
     "Obsidian Quick Shortcuts.md",
     "maxapex/Todos.md",
-    "maxapex/Ticket AI.md",
-    "images/Pasted image 20240912131313.png",
-    "images",
+    "attachments/Pasted image 20240912131313.png",
+    "attachments",
     "teacher salary.md",
     "Untitled.canvas",
-    "azm/Overview.md",
     "azm/Shefa.md",
     "azm/Saso.md",
     "maxapex/Container DB.md",
